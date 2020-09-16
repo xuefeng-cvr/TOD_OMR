@@ -6,9 +6,9 @@ Official Matlab Implementation for "Tiny Obstacle Discovery by Occlusion-aware M
 This repository contains the official Matlab implementation for "Tiny Obstacle Discovery by Occlusion-aware Multilayer Regression".
 This paper has been accepted by IEEE Transactions on Image Processing (TIP) 2020.
 
- - The Matlab implementation of the earlier version is available in [code link](https://github.com/XuefengBUPT/Tiny-Obstacle-Discovery).
+ - The Matlab implementation of the earlier version is available in the [code link](https://github.com/XuefengBUPT/Tiny-Obstacle-Discovery).
  
- - The Python/ROS implementation of the earlier version is available in [code link](https://github.com/XuefengBUPT/Tiny-Obstacle-Discovery-ROS).
+ - The Python/ROS implementation of the earlier version is available in the [code link](https://github.com/XuefengBUPT/Tiny-Obstacle-Discovery-ROS).
 
 
 ## Citation
