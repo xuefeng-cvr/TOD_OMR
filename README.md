@@ -10,11 +10,11 @@ This paper has been accepted by IEEE Transactions on Image Processing (TIP) 2020
 
 If you find the paper or the code useful, please cite our paper:
 ```
-@INPROCEEDINGS{Xue_ICRA_2019,
-Author = {Feng Xue, Anlong Ming, Menghan Zhou and Yu Zhou},
-booktitle={IEEE Transactions on Image Processing},
-title={A Novel Multi-layer Framework for Tiny Obstacle Discovery},
-year={2019},
+@article{Xue_tip_2020,
+  title={Tiny Obstacle Discovery by Occlusion-aware Multilayer Regression},
+  author={Feng Xue, Anlong Ming, Menghan Zhou and Yu Zhou},
+  journal={IEEE Transactions on Image Processing},
+  year={2020},
 }
 ```
 
