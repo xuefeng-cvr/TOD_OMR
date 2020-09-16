@@ -1,4 +1,4 @@
-# TOD_OMR
+# Tiny Obstacle Discovery by Occlusion-aware Multilayer Regression
 Official Matlab Implementation for "Tiny Obstacle Discovery by Occlusion-aware Multilayer Regression", TIP 2020
 
 ## Introduction
