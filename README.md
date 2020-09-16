@@ -17,7 +17,7 @@ If you find the paper or the code useful, please cite our paper:
 ```
 @article{Xue_tip_2020,
   title={Tiny Obstacle Discovery by Occlusion-aware Multilayer Regression},
-  author={Feng Xue, Anlong Ming, Menghan Zhou and Yu Zhou},
+  author={Feng Xue, Anlong Ming and Yu Zhou},
   journal={IEEE Transactions on Image Processing},
   year={2020},
 }
